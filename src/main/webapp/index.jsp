@@ -3,6 +3,9 @@
 <%
     //セッションクリア
     session.invalidate();
+
+	
+
 %>
 <!DOCTYPE html>
 <html>
